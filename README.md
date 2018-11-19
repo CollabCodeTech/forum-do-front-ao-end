@@ -1,7 +1,7 @@
 <p align="center">
   <img src="http://collabcode.training/static/media/logo-avatar.3b0b3a3d.svg" width="200" alt="CollabCodeTech">
 </p>
-<h1 align="center">Fórum</h1>
+<h1 align="center">Fórum da Turma do curso Do Front ao End</h1>
 <p align="center"></p>
 
 > **Disclaimer:** _As opiniões aqui publicadas são de inteira responsabilidade de seus autores e não refletem, necessariamente, o posicionamento da organização._
