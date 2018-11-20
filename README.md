@@ -24,6 +24,14 @@ Como qualquer grupo de discussões, existem algumas regras que devem ser seguida
 
 Comporte-se profissionalmente. Os participantes que violarem tais regras serão convidados a se retirar ou banidos dada a gravidade de suas ações.
 
+## Links úteis
+
+Fizemos uma coleção com links úteis separados por tópicos de interesse aqui da galera. Quem quiser contribuir com links pode ficar à vontade.
+
+<p align="center">
+  <a href="https://github.com/CollabCodeTech/forum-do-front-ao-end/blob/master/links-uteis.md">Links úteis</a>
+</p>
+
 ## Como ordenar as issues
 
 Você pode ordenar as issues da maneira aque achar melhor, as opções são:
