@@ -24,20 +24,21 @@ Espero que possam aproveitar!
 
 | Conteúdo                                                 | Link                  |
 |----------------------------------------------------------|-----------------------|
-| Instalação do Hyper                                  | [Acessar Link](https://hyper.is/#installation "Clique e acesse agora!") |
-| Configuração do Hyper by MarcoBrunoBR                                                | [Acessar Link](https://notepad.pw/share/06tx422h "Clique e acesse agora!") |
+| Instalação do Hyper [EN]                                  | [Acessar Link](https://hyper.is/#installation "Clique e acesse agora!") |
+| Configuração do Hyper by MarcoBrunoBR [EN]                                                | [Acessar Link](https://notepad.pw/share/06tx422h "Clique e acesse agora!") |
+| Hyper no Windows10 : Instalação, configuração, integração VSCode [PT-BR]                                                | [Acessar Link](https://medium.com/@raphaelbernardoohlsen/hyper-no-windows10-instala%C3%A7%C3%A3o-configura%C3%A7%C3%A3o-integra%C3%A7%C3%A3o-vscode-cf80ad4a696d "Clique e acesse agora!") |
 
 ## Markdown
 
 | Conteúdo                                                 | Link                  |
 |----------------------------------------------------------|-----------------------|
-| Aprendendo mais sobre Markdwon                                  | [Acessar Link](https://markdown.showmethecode.com.br "Clique e acesse agora!") |
+| Aprendendo mais sobre Markdwon [PT-BR]                                  | [Acessar Link](https://markdown.showmethecode.com.br "Clique e acesse agora!") |
 
 ## Terminal
 
 | Conteúdo                                                 | Link                  |
 |----------------------------------------------------------|-----------------------|
-| Instalação do Zsh e oh My Zsh no Windows 10                                             | [Acessar Link](https://evdokimovm.github.io/windows/zsh/shell/syntax/highlighting/ohmyzsh/hyper/terminal/2017/02/24/how-to-install-zsh-and-oh-my-zsh-on-windows-10.html "Clique e acesse agora!") |
-| Git Bash para Iniciantes                                                | [Acessar Link](https://www.vivaolinux.com.br/artigo/Bash-O-interpretador-de-comandos "Clique e acesse agora!") |
+| Instalação do Zsh e oh My Zsh no Windows 10 [EN]                                             | [Acessar Link](https://evdokimovm.github.io/windows/zsh/shell/syntax/highlighting/ohmyzsh/hyper/terminal/2017/02/24/how-to-install-zsh-and-oh-my-zsh-on-windows-10.html "Clique e acesse agora!") |
+| Git Bash para Iniciantes [PT-BR]                                                | [Acessar Link](https://www.vivaolinux.com.br/artigo/Bash-O-interpretador-de-comandos "Clique e acesse agora!") |
 
 ---
