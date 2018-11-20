@@ -9,7 +9,7 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/CollabCodeTech/forum/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc">Ver o fórum</a>
+  <a href="https://github.com/CollabCodeTech/forum-do-front-ao-end/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc">Ver o fórum</a>
 </p>
 
 ---
