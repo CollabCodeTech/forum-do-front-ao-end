@@ -33,6 +33,8 @@ Espero que possam aproveitar!
 | Conteúdo                                                 | Link                  |
 |----------------------------------------------------------|-----------------------|
 | Aprendendo mais sobre Markdwon [PT-BR]                                  | [Acessar Link](https://markdown.showmethecode.com.br "Clique e acesse agora!") |
+| Aprendendo Markdwon [PT-BR]                                  | [Acessar Link](https://markdown.showmethecode.com.br "Clique e acesse agora!") |
+| Sintax Markdwon [EN]                                  | [Acessar Link](https://daringfireball.net/projects/markdown/syntax "Clique e acesse agora!") |
 
 ## Terminal
 
@@ -40,5 +42,7 @@ Espero que possam aproveitar!
 |----------------------------------------------------------|-----------------------|
 | Instalação do Zsh e oh My Zsh no Windows 10 [EN]                                             | [Acessar Link](https://evdokimovm.github.io/windows/zsh/shell/syntax/highlighting/ohmyzsh/hyper/terminal/2017/02/24/how-to-install-zsh-and-oh-my-zsh-on-windows-10.html "Clique e acesse agora!") |
 | Git Bash para Iniciantes [PT-BR]                                                | [Acessar Link](https://www.vivaolinux.com.br/artigo/Bash-O-interpretador-de-comandos "Clique e acesse agora!") |
+| iTerm2 + zsh + oh-my-zsh Terminal Poderoso no macOS [EN]                                                | [Acessar Link](https://medium.com/ayuth/iterm2-zsh-oh-my-zsh-the-most-power-full-of-terminal-on-macos-bdb2823fb04c "Clique e acesse agora!") |
+| Introdução ao Windows PowerShell [PT-BR]                                                | [Acessar Link](https://docs.microsoft.com/pt-br/powershell/scripting/getting-started/getting-started-with-windows-powershell?view=powershell-6 "Clique e acesse agora!") |
 
 ---
