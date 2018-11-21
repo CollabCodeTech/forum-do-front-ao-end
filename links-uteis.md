@@ -11,10 +11,10 @@ Espero que possam aproveitar!
 * Git
 * Github
 * HTML
-* [Hyper](##Hyper)
+* [Hyper](#hyper)
 * Javascript
-* [Markdown](##Markdown)
-* [Terminal](##Terminal)
+* [Markdown](#markdown)
+* [Terminal](#terminal)
 
 ---
 
