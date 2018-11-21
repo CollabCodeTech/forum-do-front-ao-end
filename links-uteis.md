@@ -33,7 +33,7 @@ Espero que possam aproveitar!
 | Conteúdo                                                 | Link                  |
 |----------------------------------------------------------|-----------------------|
 | Aprendendo mais sobre Markdwon [PT-BR]                                  | [Acessar Link](https://markdown.showmethecode.com.br "Clique e acesse agora!") |
-| Aprendendo Markdwon [PT-BR]                                  | [Acessar Link](https://markdown.showmethecode.com.br "Clique e acesse agora!") |
+| Aprendendo Markdwon [PT-BR]                                  | [Acessar Link](https://blog.da2k.com.br/2015/02/08/aprenda-markdown/ "Clique e acesse agora!") |
 | Sintax Markdwon [EN]                                  | [Acessar Link](https://daringfireball.net/projects/markdown/syntax "Clique e acesse agora!") |
 
 ## Terminal
