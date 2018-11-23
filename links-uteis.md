@@ -8,7 +8,7 @@ Espero que possam aproveitar!
 ## Tópicos (em ordem alfabética) 
 
 * CSS    
-* Git
+* [Git](#git)
 * Github
 * HTML
 * [Hyper](#hyper)
@@ -19,6 +19,13 @@ Espero que possam aproveitar!
 ---
 
 # Tópicos
+
+## Git
+
+| Conteúdo                                                 | Link                  |
+|----------------------------------------------------------|-----------------------|
+| Comparando Workflows [EN]                                  | [Acessar Link](https://www.atlassian.com/git/tutorials/comparing-workflows "Clique e acesse agora!") |
+| Utilizando o fluxo Git Flow [PT-BR]                                  | [Acessar Link](https://medium.com/trainingcenter/utilizando-o-fluxo-git-flow-e63d5e0d5e04 "Clique e acesse agora!") |
 
 ## Hyper
 
