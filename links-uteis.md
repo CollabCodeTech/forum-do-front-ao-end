@@ -43,6 +43,7 @@ Espero que possam aproveitar!
 |----------------------------------------------------------|-----------------------|
 | O Guia do HTML [EN] | [Acessar Link](https://htmlreference.io/ "Clique e acesse agora!")
 | O Poder do atributo ALT [PT-BR] | [Acessar Link](https://tableless.com.br/o-poder-do-atributo-alt/ "Clique e acesse agora!")
+| Planilha de comandos Emmet | [Acessar Link](https://docs.emmet.io/cheat-sheet/)
 
 ## Hyper
 
