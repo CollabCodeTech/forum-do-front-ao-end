@@ -27,6 +27,7 @@ Espero que possam aproveitar!
 | Maujor - Site sobre CSS e Padrões Web [PT-BR]                                  | [Acessar Link](https://www.maujor.com/ "Clique e acesse agora!") |
 | O Guia completo para Flexbox [EN]                                  | [Acessar Link](https://css-tricks.com/snippets/css/a-guide-to-flexbox/ "Clique e acesse agora!") |
 | O Guia do CSS [EN]                                  | [Acessar Link](https://cssreference.io/ "Clique e acesse agora!") |
+| Codrops (referência para CSS) | [Acessar Link](https://tympanus.net/codrops/css_reference/) |
 
 ## Git
 
