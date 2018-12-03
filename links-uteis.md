@@ -8,6 +8,7 @@ Espero que possam aproveitar!
 ## Tópicos (em ordem alfabética) 
 
 * [CSS](#css)    
+* [Ferramentas-Web](#ferramentas-web)
 * [Git](#git)
 * Github
 * [HTML](#html)
@@ -71,4 +72,11 @@ Espero que possam aproveitar!
 | iTerm2 + zsh + oh-my-zsh Terminal Poderoso no macOS [EN]                                                | [Acessar Link](https://medium.com/ayuth/iterm2-zsh-oh-my-zsh-the-most-power-full-of-terminal-on-macos-bdb2823fb04c "Clique e acesse agora!") |
 | Introdução ao Windows PowerShell [PT-BR]                                                | [Acessar Link](https://docs.microsoft.com/pt-br/powershell/scripting/getting-started/getting-started-with-windows-powershell?view=powershell-6 "Clique e acesse agora!") |
 
+
+## Ferramentas-Web
+
+| Conteúdo                                                 | Link                  |
+|----------------------------------------------------------|-----------------------|
+| Shapecatcher                                             | [Acessar Link](http://shapecatcher.com/ "Clique e acesse agora!") |
+| Text to ASCII                                            | [Acessar Link](http://patorjk.com/software/taag/ "Clique e acesse agora!") |
 ---
