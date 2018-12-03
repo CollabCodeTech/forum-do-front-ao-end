@@ -38,6 +38,7 @@ Espero que possam aproveitar!
 | Utilizando o fluxo Git Flow [PT-BR]                                  | [Acessar Link](https://medium.com/trainingcenter/utilizando-o-fluxo-git-flow-e63d5e0d5e04 "Clique e acesse agora!") |
 | Mensagens de commit styleguide [PT-BR] | [Acessar Link](https://gist.github.com/crissilvaeng/dfb5b14f8eb2c25df4fd8a49f4f03252 "Clique e acesse agora!")
 | Git-it app (aprenda Git & GitHub através de desafios) | [Acessar Link](https://github.com/jlord/git-it-electron/blob/master/README.md "Clique e acesse agora!")
+| Lista de comandos úteis | [Acessar Link](https://gist.github.com/leocomelli/2545add34e4fec21ec16 "Clique e acesse agora!")
 
 ## HTML
 
