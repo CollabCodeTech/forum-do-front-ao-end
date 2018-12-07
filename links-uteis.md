@@ -78,6 +78,7 @@ Espero que possam aproveitar!
 
 | Conteúdo                                                 | Link                  |
 |----------------------------------------------------------|-----------------------|
+| Dev Docs                                                 | [Acessar Link](https://devdocs.io/ "Clique e acesse agora!") |
 | Shapecatcher                                             | [Acessar Link](http://shapecatcher.com/ "Clique e acesse agora!") |
 | Text to ASCII                                            | [Acessar Link](http://patorjk.com/software/taag/ "Clique e acesse agora!")|
 | Invertexto.com (Varias Ferramentas em uma unica página)  | [Acessar Link](https://www.invertexto.com/ "Clique e acesse agora!")|
