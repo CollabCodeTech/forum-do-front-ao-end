@@ -30,6 +30,15 @@ Espero que possam aproveitar!
 | O Guia do CSS [EN]                                  | [Acessar Link](https://cssreference.io/ "Clique e acesse agora!") |
 | Codrops (referência para CSS) | [Acessar Link](https://tympanus.net/codrops/css_reference/) |
 
+## Chrome Apps
+
+| Extension       | Link          | Type |
+| --------------- | ------------- |
+| Web Developer   | [Acessar Link](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm) | Free |
+| Dimensions      | [Acessar Link](https://chrome.google.com/webstore/detail/dimensions/baocaagndhipibgklemoalmkljaimfdj/related) | Free |
+| Page Ruler      | [Acessar Link](https://chrome.google.com/webstore/detail/page-ruler/emliamioobfffbgcfdchabfibonehkme) | Free |
+| Window Resizer  | [Acessar Link](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh?hl=en) | Free |
+
 ## Git
 
 | Conteúdo                                                 | Link                  |
