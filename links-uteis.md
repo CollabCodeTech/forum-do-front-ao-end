@@ -30,15 +30,6 @@ Espero que possam aproveitar!
 | O Guia do CSS [EN]                                  | [Acessar Link](https://cssreference.io/ "Clique e acesse agora!") |
 | Codrops (referência para CSS) | [Acessar Link](https://tympanus.net/codrops/css_reference/) |
 
-## Chrome Apps
-
-| Extension       | Link          | Type |
-| --------------- | ------------- |
-| Web Developer   | [Acessar Link](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm) | Free |
-| Dimensions      | [Acessar Link](https://chrome.google.com/webstore/detail/dimensions/baocaagndhipibgklemoalmkljaimfdj/related) | Free |
-| Page Ruler      | [Acessar Link](https://chrome.google.com/webstore/detail/page-ruler/emliamioobfffbgcfdchabfibonehkme) | Free |
-| Window Resizer  | [Acessar Link](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh?hl=en) | Free |
-
 ## Git
 
 | Conteúdo                                                 | Link                  |
@@ -87,8 +78,12 @@ Espero que possam aproveitar!
 
 | Conteúdo                                                 | Link                  |
 |----------------------------------------------------------|-----------------------|
-| Dev Docs                                                 | [Acessar Link](https://devdocs.io/ "Clique e acesse agora!") |
-| Shapecatcher                                             | [Acessar Link](http://shapecatcher.com/ "Clique e acesse agora!") |
-| Text to ASCII                                            | [Acessar Link](http://patorjk.com/software/taag/ "Clique e acesse agora!")|
-| Invertexto.com (Varias Ferramentas em uma unica página)  | [Acessar Link](https://www.invertexto.com/ "Clique e acesse agora!")|
+| Chrome Extensions - Dev Docs                                                 | [Acessar Link](https://devdocs.io/ "Clique e acesse agora!") |
+| Chrome Extensions - Shapecatcher                                             | [Acessar Link](http://shapecatcher.com/ "Clique e acesse agora!") |
+| Chrome Extensions - Text to ASCII                                            | [Acessar Link](http://patorjk.com/software/taag/ "Clique e acesse agora!")|
+| Chrome Extensions - Invertexto.com (Varias Ferramentas em uma unica página)  | [Acessar Link](https://www.invertexto.com/ "Clique e acesse agora!")|
+| Chrome Extensions - Web Developer   | [Acessar Link](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm) |
+| Chrome Extensions - Dimensions      | [Acessar Link](https://chrome.google.com/webstore/detail/dimensions/baocaagndhipibgklemoalmkljaimfdj/related) |
+| Chrome Extensions - Page Ruler      | [Acessar Link](https://chrome.google.com/webstore/detail/page-ruler/emliamioobfffbgcfdchabfibonehkme) | 
+| Chrome Extensions - Window Resizer  | [Acessar Link](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh?hl=en) | 
 ---
