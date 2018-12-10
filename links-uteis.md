@@ -78,8 +78,12 @@ Espero que possam aproveitar!
 
 | Conteúdo                                                 | Link                  |
 |----------------------------------------------------------|-----------------------|
-| Dev Docs                                                 | [Acessar Link](https://devdocs.io/ "Clique e acesse agora!") |
-| Shapecatcher                                             | [Acessar Link](http://shapecatcher.com/ "Clique e acesse agora!") |
-| Text to ASCII                                            | [Acessar Link](http://patorjk.com/software/taag/ "Clique e acesse agora!")|
-| Invertexto.com (Varias Ferramentas em uma unica página)  | [Acessar Link](https://www.invertexto.com/ "Clique e acesse agora!")|
+| Chrome Extensions - Dev Docs                                                 | [Acessar Link](https://devdocs.io/ "Clique e acesse agora!") |
+| Chrome Extensions - Shapecatcher                                             | [Acessar Link](http://shapecatcher.com/ "Clique e acesse agora!") |
+| Chrome Extensions - Text to ASCII                                            | [Acessar Link](http://patorjk.com/software/taag/ "Clique e acesse agora!")|
+| Chrome Extensions - Invertexto.com (Varias Ferramentas em uma unica página)  | [Acessar Link](https://www.invertexto.com/ "Clique e acesse agora!")|
+| Chrome Extensions - Web Developer   | [Acessar Link](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm) |
+| Chrome Extensions - Dimensions      | [Acessar Link](https://chrome.google.com/webstore/detail/dimensions/baocaagndhipibgklemoalmkljaimfdj/related) |
+| Chrome Extensions - Page Ruler      | [Acessar Link](https://chrome.google.com/webstore/detail/page-ruler/emliamioobfffbgcfdchabfibonehkme) | 
+| Chrome Extensions - Window Resizer  | [Acessar Link](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh?hl=en) | 
 ---
