@@ -86,4 +86,6 @@ Espero que possam aproveitar!
 | Chrome Extensions - Dimensions      | [Acessar Link](https://chrome.google.com/webstore/detail/dimensions/baocaagndhipibgklemoalmkljaimfdj/related) |
 | Chrome Extensions - Page Ruler      | [Acessar Link](https://chrome.google.com/webstore/detail/page-ruler/emliamioobfffbgcfdchabfibonehkme) | 
 | Chrome Extensions - Window Resizer  | [Acessar Link](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh?hl=en) | 
+| Chrome Extensions - Remove Fundo da Imagem | [Acessar Link](https://www.remove.bg/) | 
+
 ---
